@@ -8,6 +8,11 @@ $g_db_password = '';
 # --- Custom Theme ---
 $g_css_include_file = "/css/custom/default.css";
 
+# --- Branding ---
+$g_window_title			= 'Mantis Bug Tracker';
+$g_logo_image			= 'images/mantis_logo_dark.png';
+$g_favicon_image		= 'images/favicon.ico';
+
 # --- Status color additions ---
 
 $g_status_colors['new'] = '#ff9800';
