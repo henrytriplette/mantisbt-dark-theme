@@ -11,22 +11,23 @@ A darker theme for Mantis bug tracking software: http://mantisbt.org/
 $g_css_include_file = "/css/custom/default.css";
 ```
 to the config_inc.php file.
+
 3. ???
 4. Profit!
 
-## TODO
+### TODO
 
 1. Add responsive css?
 2. Turn into a plugin?
 
-## History
+### History
 
 2016-5-18: First release
 
-## Credits
+### Credits
 
 TODO: Write credits
 
-## License
+### License
 
 TODO: Write license
